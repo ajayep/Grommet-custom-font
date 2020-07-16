@@ -7,7 +7,7 @@ import "./styles.css";
 const theme = {
   global: {
     font: {
-      family: "Roboto Condensed",
+      family: "Roboto",
       size: "14px"
     }
   }
